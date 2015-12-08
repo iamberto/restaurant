@@ -38,8 +38,12 @@ nav.navbar.navbar-default {
 	margin-bottom:60px;
 }
 
+.carousel-caption{
+	margin-bottom:175px;
+}
+
 .slide-one{
-	background-image: url(../img/wood-2.jpg)
+	background-image: url(../img/wood-2.jpg);
 }
 
 .slide-two{
@@ -55,4 +59,12 @@ nav.navbar.navbar-default {
 	background-size: cover;
 	background-position:center;
 }
+
+.slide-one-logo{
+	max-height: 300px
+}
+
+/*.center-block{
+	margin-bottom:115px;
+}*/
 /*end of carousel*/
